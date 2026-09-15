@@ -69,10 +69,48 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Mrsachin-Developer&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=Mrsachin-Developer&theme=midnight-purple&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrsachin-Developer&theme=midnight-purple&hide_border=false&layout=compact)
+<div align="center">
 
+### 🔥 Streak Stats
+
+<table>
+<tr>
+<td>
+
+<a href="https://git.io/streak-stats">
+  <img
+    title="🔥 Sachin's GitHub Streak Stats"
+    alt="Sachin's streak"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=Mrsachin-Developer&theme=midnight-purple&hide_border=false&border=8A2BE2&stroke=8A2BE2&ring=A855F7&fire=C084FC&currStreakLabel=FFFFFF&background=0D1117"
+  />
+</a>
+
+</td>
+
+<td>
+
+<img
+  src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif"
+  width="210"
+/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+## 📈 Activity Graph
+
+[![Sachin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mrsachin-Developer&theme=react-dark)](https://github.com/Mrsachin-Developer)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Mrsachin-Developer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=Mrsachin-Developer&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 ---
 
 ### 📈 Activity Graph
