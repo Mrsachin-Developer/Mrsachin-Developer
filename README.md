@@ -1,27 +1,31 @@
+<h2 align="left">
+  Hello World, I'm Sabya Sachin Mohanta
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
+
+---
+
 <div align="center">
-   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
+  <img
+    src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png"
+    width="100%"
+    alt="Developer Technology Banner"
+  />
 </div>
 
-<h1 align="center">
-  Hi, I'm Sabya Sachin Mohanta
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+<br>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=fira+code&pause=1000&center=true&width=435&lines=Full-Stack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Video+Editor+%F0%9F%8E%A5;Photographer+%F0%9F%93%B8;Photo+Editor+%F0%9F%8E%A8;Always+Learning+New+Things+%F0%9F%94%A5;Feel+Free+to+Look+Around+%F0%9F%91%80;Reach+Out+If+You+Need+Help+%F0%9F%A4%9D" alt="Typing SVG" />
-  </a>
-</p>
+- 🚀 **Full-Stack Developer** → Building scalable web applications using **React, Next.js, Node.js, Express, TypeScript, PostgreSQL, Prisma, and MongoDB**.
 
+- ⚙️ **Backend & System Design Enthusiast** → Passionate about designing reliable systems, distributed architectures, authentication systems, background job processing, caching, and database optimization.
 
-- 💻✨ **Passionate Developer & Designer**  
-  Crafting beautiful frontends and powerful backends with **ReactJS, HTML, CSS, JavaScript & MERN Stack** 🖥️🎨 — blending logic and creativity into impactful digital experiences 🚀
+- 🏆 **Competitive Programmer** → Solving Data Structures & Algorithms problems using **Java**, continuously improving problem-solving and analytical thinking.
 
-- 🎥📸 **Visual Creator (Video + Photo)**  
-  Producing cinematic visuals through **Photography, Photo Editing, After Effects, Premiere Pro & Lightroom** 🔥✨ — turning moments and ideas into powerful visual stories
+- 🎯 **Currently Learning** → Advanced Backend Engineering, Distributed Systems, Redis, Docker, and System Design.
 
-- 🏆⚡ **Competitive Programmer**  
-  Solving complex problems using **Java & DSA** 🧠💻 — constantly sharpening my problem-solving mindset and coding skills 🏅
+- 📸 **Creative Side** → Photography, Cinematic Video Editing, Color Grading, and Visual Storytelling using Adobe Creative Suite.
+
+- 🌱 **Goal** → Becoming a strong Software Engineer who can build products from idea to production.
 
 ---
 
