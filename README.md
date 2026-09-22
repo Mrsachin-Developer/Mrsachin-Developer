@@ -12,7 +12,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=fira+code&pause=1000&center=true&width=435&lines=Full-Stack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Video+Editor+%F0%9F%8E%A5;Photographer+%F0%9F%93%B8;Photo+Editor+%F0%9F%8E%A8;Always+Learning+New+Things+%F0%9F%94%A5;Feel+Free+to+Look+Around+%F0%9F%91%80;Reach+Out+If+You+Need+Help+%F0%9F%A4%9D" alt="Typing SVG" />
   </a>
 </p>
-
 ---
 
 - 💻✨ **Passionate Developer & Designer**  
