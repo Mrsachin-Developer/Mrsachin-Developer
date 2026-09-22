@@ -31,10 +31,7 @@
 
 ## 🌐 Socials
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Mrsachin-Developer)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sachin.icy/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabya-sachin-mohanta-848271269/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sabya.sachin.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Mrsachin-Developer)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sachin.icy/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabya-sachin-mohanta-848271269/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sabya.sachin.dev@gmail.com)
 
 ---
 
@@ -109,17 +106,13 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Mrsachin-Developer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<a href="https://github-trophies.vercel.app/?username=Mrsachin-Developer" target="_blank">
+  <img src="https://github-trophies.vercel.app/?username=Mrsachin-Developer&theme=radical&margin-w=4&margin-h=4">
+</a>
 
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=Mrsachin-Developer&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
----
-
-### 📈 Activity Graph
-
-[![Sachin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mrsachin-Developer&theme=react-dark)](https://github.com/Mrsachin-Developer)
-
 ---
 
 ## 🏆 GitHub Trophies
